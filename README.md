@@ -11,3 +11,4 @@ Här nedanför är bilder på kretskortet jag håller på att skapa, detta är f
 ![keyboard](images/PCB-3D-03.JPG)
 ![keyboard](images/PCB-3D-04.JPG)
 
+Har efter dessa bilder lagt till hål för dom större tangenternas stabilatorer.
