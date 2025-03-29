@@ -1,5 +1,5 @@
 # Electronics-Project
-Hej här har jag lagt upp några elektronic projekt som jag håller på med, på min fritid.
+Hej här har jag lagt upp ett elektronic projekt som jag håller på med, på min fritid.
 Det första är bilder på ett pågående projekt, där jag håller på och skapar ett mekaniskt tangentbord
 som ska funka som en miniräknare och man ska kunna välja mattefunktioner på dom övre tangenterna.
 Här är en bild på layout.
