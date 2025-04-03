@@ -6,9 +6,10 @@ Här är en bild på layout.
 
 ![keyboard](images/keyboard-layout-02.png)
 
-Här nedanför är bilder på kretskortet jag håller på att skapa, detta är från en bit in i skapar processen.
+Här nedanför är bilder på kretskortet jag håller på att skapa.
 
-![keyboard](images/PCB-3D-03.JPG)
-![keyboard](images/PCB-3D-04.JPG)
+![keyboard](images/PCB-3D-05.JPG)
+![keyboard](images/PCB-3D-06.JPG)
 
-Har efter dessa bilder lagt till hål för dom större tangenternas stabilatorer.
+---
+
