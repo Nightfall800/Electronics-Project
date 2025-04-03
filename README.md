@@ -6,7 +6,8 @@ Här är en bild på layout.
 
 ![keyboard](images/keyboard-layout-02.png)
 
-Här nedanför är bilder på kretskortet jag håller på att skapa.
+Här nedanför är bilder på kretskortet jag håller på att skapa. Sidan som ska vara uppåt är första bilden.
+Den andra bilden är baksidan av kretskortet.
 
 ![keyboard](images/PCB-3D-05.JPG)
 ![keyboard](images/PCB-3D-06.JPG)
