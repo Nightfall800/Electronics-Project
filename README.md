@@ -1,17 +1,19 @@
 # Electronics-Project
-Hej här har jag lagt upp ett elektronic projekt som jag håller på med, på min fritid.
-Det första är bilder på ett pågående projekt, där jag håller på och skapar ett mekaniskt tangentbord
-som ska funka som en miniräknare och man ska kunna välja mattefunktioner på dom övre tangenterna.
-Här är en bild på layout.
+Hi, here I have posted an electronic project that I am working on, in my spare time.
+The first is pictures of an ongoing project, where I am working on creating a mechanical keyboard
+that will work like a calculator and you will be able to select math functions on the upper keys.
+Here is a picture of the layout.
 
 ![keyboard](images/keyboard-layout-02.png)
 
-Här nedanför är bilder på kretskortet jag håller på att skapa. Sidan som ska vara uppåt är första bilden.
-Den andra bilden är baksidan av kretskortet.
+Below are pictures of the circuit board I am creating. The side that should be facing up is the first picture.
+The second picture is the back of the circuit board.
 
 ![keyboard](images/PCB-3D-05.JPG)
 ![keyboard](images/PCB-3D-06.JPG)
+
 ![keyboard](images/Prototyp-Mech-Keyboard-01.JPG)
+
 ![keyboard](images/Prototyp-Mech-Keyboard-02.JPG)
 
 ---
