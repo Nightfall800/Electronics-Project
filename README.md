@@ -11,6 +11,8 @@ Den andra bilden är baksidan av kretskortet.
 
 ![keyboard](images/PCB-3D-05.JPG)
 ![keyboard](images/PCB-3D-06.JPG)
+![keyboard](images/Prototyp-Mech-Keyboard-01.JPG)
+![keyboard](images/Prototyp-Mech-Keyboard-02.JPG)
 
 ---
 
