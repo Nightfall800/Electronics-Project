@@ -12,9 +12,8 @@ The second picture is the back of the circuit board.
 ![keyboard](images/PCB-3D-05.JPG)
 ![keyboard](images/PCB-3D-06.JPG)
 
-![keyboard](images/Prototyp-Mech-Keyboard-01.JPG)
+![keyboard](images/Mech-Keyboard-01.JPG)
 
-![keyboard](images/Prototyp-Mech-Keyboard-02.JPG)
-
+![keyboard](images/Mech-Keyboard-02.JPG)
 ---
 
