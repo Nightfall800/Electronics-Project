@@ -12,7 +12,8 @@ The second picture is the back of the circuit board.
 ![keyboard](images/PCB-3D-05.JPG)
 ![keyboard](images/PCB-3D-06.JPG)
 
-Complete keyboard with circuit board, components, keys and caps.
+Almost finished keyboard with circuit board, components, keys and caps. Missing stabilizers and caps in the right 
+size. It works and does what it should. Coded BIOS with QMK Firmware.
 
 <img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/9f97eed6-e929-4f23-acc1-92b748429fa1" />
 <img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/84d3b720-d048-4d42-bdb3-c3a242ca0c5d" />
